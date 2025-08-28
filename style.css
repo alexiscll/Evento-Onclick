@@ -35,12 +35,15 @@ input[type="text"]{
     gap: 10px;
 }
 
+main{
+    flex: 2;
+}
+
 .section1{
     border: 2px solid #000;
     padding: 15px 8px;
     margin-bottom: 10px;
 }
-
 
 .section1 p{
     padding-top: 13px;
@@ -55,9 +58,6 @@ input[type="text"]{
     box-shadow: 5px 5px 6px rgba(54, 54, 54, 0.6)
 }
 
-main{
-    flex: 2;
-}
 
 aside{
     border:  2px solid #000;
